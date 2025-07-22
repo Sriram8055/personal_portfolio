@@ -96,6 +96,7 @@ nav ul li:first-child a {
     color: #FFFFFF;
     padding: 0.8rem 1.8rem; /* Increased padding */
     border-radius: 8px; /* More rounded corners */
+    margin-right: 100px;
     font-weight: 600;
     transition: background-color 0.3s ease;
     border: none; /* Removed border */
@@ -103,7 +104,7 @@ nav ul li:first-child a {
 
 .get-in-touch-button:hover {
     background-color: #357ABD;
-    margin-right: 100px;
+
 }
 
 /* Hamburger Menu */
