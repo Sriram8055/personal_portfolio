@@ -103,6 +103,7 @@ nav ul li:first-child a {
 
 .get-in-touch-button:hover {
     background-color: #357ABD;
+    margin-right: 100px;
 }
 
 /* Hamburger Menu */
