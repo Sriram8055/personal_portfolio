@@ -98,12 +98,13 @@ nav ul li:first-child a {
     border-radius: 8px; /* More rounded corners */
     font-weight: 600;
     transition: background-color 0.3s ease;
+    margin-right: 100px;
     border: none; /* Removed border */
 }
 
 .get-in-touch-button:hover {
     background-color: #357ABD;
-    margin-right: 100px;
+
 }
 
 /* Hamburger Menu */
