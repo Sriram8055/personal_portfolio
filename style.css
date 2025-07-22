@@ -95,10 +95,10 @@ nav ul li:first-child a {
     background-color: #4A90E2; /* Solid blue button color */
     color: #FFFFFF;
     padding: 0.8rem 1.8rem; /* Increased padding */
+    margin-right: 100px;
     border-radius: 8px; /* More rounded corners */
     font-weight: 600;
     transition: background-color 0.3s ease;
-    margin-right: 100px;
     border: none; /* Removed border */
 }
 
