@@ -95,6 +95,7 @@ nav ul li:first-child a {
     background-color: #4A90E2; /* Solid blue button color */
     color: #FFFFFF;
     padding: 0.8rem 1.8rem; /* Increased padding */
+    margin-right: 100px;
     border-radius: 8px; /* More rounded corners */
     margin-right: 100px;
     font-weight: 600;
